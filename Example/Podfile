@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'MinstoneHttp_Example', :exclusive => true do
+  pod 'MinstoneHttp', :path => '../'
+end
+
+target 'MinstoneHttp_Tests', :exclusive => true do
+  pod 'MinstoneHttp', :path => '../'
+
+  
+end

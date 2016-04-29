@@ -1,0 +1,14 @@
+PODS:
+  - MinstoneHttp (1.0.2)
+
+DEPENDENCIES:
+  - MinstoneHttp (from `../`)
+
+EXTERNAL SOURCES:
+  MinstoneHttp:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MinstoneHttp: 06fc389d25b88839f7c17d5bf40f508675508870
+
+COCOAPODS: 0.39.0
